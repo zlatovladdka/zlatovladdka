@@ -1,4 +1,9 @@
-### Hi there 👋
+### hi i'm vlad
+
+- my [cv](https://github.com/zlatovladdka/zlatovladdka/blob/main/cv/cv.pdf)
+- reach me tg: @zlatovladdka
+- some tunes [here](https://vk.com/zlatovladdka) and [here](https://soundcloud.com/zlatovladdka)
+
 
 <!--
 **zlatovladdka/zlatovladdka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
