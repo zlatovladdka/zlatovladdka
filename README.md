@@ -1,7 +1,6 @@
-### hi i'm vlad
 
-- my [cv](https://github.com/zlatovladdka/zlatovladdka/blob/main/cv/cv.pdf)
-- reach me tg: @zlatovladdka
+<!-- - my [cv](https://github.com/zlatovladdka/zlatovladdka/blob/main/cv/cv.pdf)
+- reach me tg: @zlatovladdka -->
 
 
 <!--
